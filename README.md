@@ -1,3 +1,4 @@
+<img align= "center" alt="banner" width="100%" src="https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
 <h1 align="center">Hi 👋, I'm Ranjith Rameshbabu</h1>
 <h3 align="center">A passionate frontend developer from Tiruvannamalai(India)</h3>
 
